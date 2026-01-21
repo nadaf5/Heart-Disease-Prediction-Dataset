@@ -70,7 +70,6 @@ Predict and analyze heart disease using clinical features. Applies supervised an
 - Applied to scaled features  
 - Number of clusters (`k`) = 2  
 - Cluster counts and contingency table vs. `target`:
-
 ## Visualizations
 
 ![Logistic Regression Feature Importance](images/Logistic_Regression_Feature_Importance.png)  
