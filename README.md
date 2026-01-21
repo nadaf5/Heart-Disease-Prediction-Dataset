@@ -73,24 +73,24 @@ Predict and analyze heart disease using clinical features. Applies supervised an
 ## Visualizations
 
 ![Logistic Regression Feature Importance](logistic_regression_feature_importance.png)  
-*Logistic_Regression_Feature_Importance*
+*Logistic Regression Feature Importance*
 
 ---
 
 ![Naive Bayes Confusion Matrix](naive_bayes_confusion_matrix.png)  
-*Naive_Bayes_Confusion_Matrix*
+*Naive Bayes Confusion Matrix*
 
 ---
 
 ![Feature Correlation Heatmap](feature_correlation_heatmap.png)  
-*Feature_Correlation_Heatmap*
+*Feature Correlation Heatmap*
 
 ---
 
 ![K-Means Clustering 2D PCA](kmeans_clustering_2d_pca.png)  
-*KMeans_Clustering_2D_PCA*
+*K-Means Clustering 2D PCA*
 
 ---
 
 ![PCA Projection of Heart Disease Data](pca_projection_heart_disease.png)  
-*PCA_Projection_of_Heart_Disease_Data*
+*PCA Projection of Heart Disease Data*
