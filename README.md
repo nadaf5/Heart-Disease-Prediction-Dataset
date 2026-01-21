@@ -69,19 +69,24 @@ Predict and analyze heart disease using clinical features. Applies supervised an
 ### K-Means Clustering
 - Applied to scaled features  
 - Number of clusters (`k`) = 2  
-- Cluster counts and contingency table vs. `target`:## Visualizations
+- Cluster counts and contingency table vs. `target`:
 
-![Logistic Regression Feature Importance](images/logistic_regression_feature_importance.png)  
-*Logistic_Regression_Feature_Importance*
+## Visualizations
 
-![Naive Bayes Confusion Matrix](images/naive_bayes_confusion_matrix.png)  
-*Naive_Bayes_Confusion_Matrix*
+![Logistic Regression Feature Importance](images/Logistic_Regression_Feature_Importance.png)  
+*Logistic Regression Feature Importance*
 
-![Feature Correlation Heatmap](images/feature_correlation_heatmap.png)  
-*Feature_Correlation_Heatmap*
+---
 
-![K-Means Clustering 2D PCA](images/kmeans_clustering_2d_pca.png)  
-*KMeans_Clustering_2D_PCA*
+![Feature Correlation Heatmap](images/Feature_Correlation_Heatmap.png)  
+*Feature Correlation Heatmap*
 
-![PCA Projection of Heart Disease Data](images/pca_projection_heart_disease.png)  
-*PCA_Projection_of_Heart_Disease_Data*
+---
+
+![K-Means Clustering 2D PCA](images/KMeans_Clustering_2D_PCA.png)  
+*K-Means Clustering 2D PCA*
+
+---
+
+![PCA Projection of Heart Disease Data](images/PCA_Projection_of_Heart_Disease_Data.png)  
+*PCA Projection of Heart Disease Data*
